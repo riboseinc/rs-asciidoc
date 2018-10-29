@@ -1,0 +1,10 @@
+[package]
+name = "asciidoc"
+description = "Parse AsciiDoc into an internal structured representation."
+version = "0.1.0"
+authors = ["John Hedges <john@drystone.co.uk>", "Ribose Inc. <open.source@ribose.com>"]
+license = "BSD-2-Clause"
+repository = "https://github.com/riboseinc/rs-asciidoc"
+exclude = [".gitignore"]
+
+[dependencies]
